@@ -17,3 +17,6 @@
 
 4. Hvað er útgáfustýring (Version Control) <br>
     það er notað til að fylgjast með kóðabreytingum í þróun og er hægt að nota til að fylgjast með breytíngum <br>
+
+5. Hverjir eru helstir kostir við að nota Git? <br>
+    Helstu kostir við að nota Git er greinargeta þess. það leyfir fólki að vinna á sama verkefni á sama tíma án þess að því að skerða kóðann <br>
