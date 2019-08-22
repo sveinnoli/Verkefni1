@@ -1,4 +1,4 @@
 # Vefhönnun
 * [Sveinnoli.github.io](https://github.com/sveinnoli)
-v1
+<hr>
 * [Verkefni1 - Svör](verkefni-1.md/)
