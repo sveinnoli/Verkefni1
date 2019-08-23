@@ -21,3 +21,6 @@
 
 5. Hverjir eru helstir kostir við að nota Git? <br>
     Helstu kostir við að nota Git er greinargeta þess. það leyfir fólki að vinna á sama verkefni á sama tíma án þess að því að skerða kóðann <br>
+
+6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?<br>
+    40-klukkutima fresti, eða eftir að hafa ljúkað einhverjum kóða td: eftir er buinn að kóða stabila version af html/css til að setja in í child branch svo  ef það er gert kóðavilla innan css, og svo það þarf ekki að reyna laga villuboðin ef eitthvað kemur upp.<br>
