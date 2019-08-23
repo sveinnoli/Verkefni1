@@ -15,6 +15,9 @@
     git log - sýnir þér öll commits í öfugri tímaröð <br>
     git checkout - Þú getur notað git checkout till að fara inn í branch með því að nota git checkout - sha1 töluna frá git log <br>
     git branch - lína sem inniheldur skrár sem geta verið frábrugðnar öðrum greinum <br>
-    
+
 4. Hvað er útgáfustýring (Version Control) <br>
     það er notað til að fylgjast með kóðabreytingum í þróun og er hægt að nota til að fylgjast með breytíngum <br>
+
+5. Hverjir eru helstir kostir við að nota Git? <br>
+    Helstu kostir við að nota Git er greinargeta þess. það leyfir fólki að vinna á sama verkefni á sama tíma án þess að því að skerða kóðann <br>
