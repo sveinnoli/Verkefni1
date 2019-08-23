@@ -24,3 +24,7 @@
 
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?<br>
     40-klukkutima fresti, eða eftir að hafa ljúkað einhverjum kóða td: eftir er buinn að kóða stabila version af html/css til að setja in í child branch svo  ef það er gert kóðavilla innan css, og svo það þarf ekki að reyna laga villuboðin ef eitthvað kemur upp.<br>
+
+7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?<br>
+    Working Directory: Það er yfirleit möppan sem inniheldur .git möppuna það er working directory þegar þú gerir breytingar á skrám í branch þá geriru breytur í working directory, <br>
+    Staging Area: Staging Area er skrefið undan Commit, commit er framkvæmd í tveimur skrefum, Staging og svo Commit.<br>
