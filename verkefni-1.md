@@ -27,4 +27,4 @@
 
 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?<br>
     Working Directory: Það er yfirleit möppan sem inniheldur .git möppuna það er working directory þegar þú gerir breytingar á skrám í branch þá geriru breytur í working directory, <br>
-    Staging Area: Staging Area er skrefið undan Commit, commit er framkvæmd í tveimur skrefum, Staging og svo[[Commit]].<br>
+    Staging Area: Staging Area er skrefið undan Commit, commit er framkvæmd í tveimur skrefum, Staging og svo Commit.<br>
