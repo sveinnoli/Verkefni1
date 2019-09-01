@@ -7,4 +7,4 @@
 * [Verkefni-1.1](vefhonnun_2019-1/verkefni1/index.html)
 * [Verkefni-1.2](vefhonnun_2019-1/verkefni2/index.html)
 * [verkefni-1.3](vefhonnun_2019-1/verkefni3/index.html)
-* [verkefni-1222.3](myweb/sogweb.html)
+* [verkefni-1222.3](MyWebsite/sogweb.html)
