@@ -1,5 +1,5 @@
 # Vefhönnun
-* [Sveinnoli.github.io](https://github.com/sveinnoli)
+* [Github - Sveinn](https://github.com/sveinnoli)
 <hr>
 
 * [Verkefni-1 - Svör á master branch](verkefni-1.md/)
@@ -8,4 +8,5 @@
 * [Verkefni-1.2](vefhonnun_2019-1/verkefni2/index.html)
 * [verkefni-1.3](vefhonnun_2019-1/verkefni3/index.html)
 * [Verkefni 2](https://github.com/sveinnoli/verkefni2)
+* [Verkefni 3](https://sveinnoli.github.io/verkefni2/)
 
