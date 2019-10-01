@@ -9,4 +9,5 @@
 * [verkefni-1.3](vefhonnun_2019-1/verkefni3/index.html)
 * [Verkefni 2](https://github.com/sveinnoli/verkefni2)
 * [Verkefni 3](https://sveinnoli.github.io/verkefni2/)
+* [Verkefni 4](https://sveinnoli.github.io/verkefni2/)
 
