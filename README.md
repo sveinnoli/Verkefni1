@@ -7,5 +7,5 @@
 * [Verkefni-1.1](vefhonnun_2019-1/verkefni1/index.html)
 * [Verkefni-1.2](vefhonnun_2019-1/verkefni2/index.html)
 * [verkefni-1.3](vefhonnun_2019-1/verkefni3/index.html)
-* [Verkefni 2 3 4 og 5](https://sveinnoli.github.io/wizliz/)
+* [Verkefni 2 3 4 5 og 6](https://sveinnoli.github.io/wizliz/)
 
