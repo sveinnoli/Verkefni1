@@ -1,4 +1,4 @@
-# Vefhönnun
+# Vefhönnun 2
 * [Github - Sveinn](https://github.com/sveinnoli)
 <hr>
 
