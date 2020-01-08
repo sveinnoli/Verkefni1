@@ -10,5 +10,5 @@
 * [Verkefni 2 3 4 5 og 6](https://sveinnoli.github.io/wizliz/)
 * [Lokaverkefni](https://github.com/sveinnoli/lokaverkefni)
 
-#Vefhönnun 3
+# Vefhönnun 3
 
